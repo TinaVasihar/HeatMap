@@ -1,2 +1,1 @@
-# HeatMap
-HeatMapUsingJson
+# D3-Heatmap-NPM

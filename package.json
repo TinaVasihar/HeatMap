@@ -1,0 +1,15 @@
+{
+  "name": "khols-api-downtime",
+  "version": "1.0.0",
+  "description": "khols-api-downtime",
+  "main": "\u001b[D\u001bhtml)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Aravind S",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
